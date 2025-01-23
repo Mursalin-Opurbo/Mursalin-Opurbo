@@ -1,6 +1,6 @@
 ![Computer Engineer](https://ak.picdn.net/shutterstock/videos/1060669051/thumb/11.jpg)
 
-### Hi there 👋, This is David
+### Hi there 👋, This is Mursalin Opurbo
 #### Computer Engineer
 
 A highly skilled and versatile Full-Stack Engineer with expertise in front-end technologies (HTML, CSS, JavaScript, React, Flutter) and back-end languages (Python, Java, PHP, Laravel). Proficient in database management (SQL) and possesses a strong foundation in C, C++, and C#. Additionally, this individual specializes in Cybersecurity, with expertise in penetration testing, digital forensics, and ethical hacking. Excellent problem-solving, analytical, and communication skills enable the development of secure and robust software solutions.
